@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'demo-2';
+  istrue = true;
+  a = 'Hello from Angular!';
+  members = ['Alice', 'Bob', 'Charlie'];
 }
